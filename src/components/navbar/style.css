@@ -1,0 +1,48 @@
+header {
+  background: linear-gradient(90deg, white 60%, #fac97f 30%);
+  display: flex;
+  height: 98px;
+  width: 100%;
+}
+
+.navbar-content {
+  align-items: center;
+  background-color: inherit;
+  display: flex;
+  justify-content: space-between;
+  margin: 28px auto;
+  width: 98%;
+}
+
+.social-media {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 144px;
+
+}
+
+.links {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 130px;
+  width: 500px;
+}
+
+.navbar-link {
+  color: #6d83f2;
+}
+
+.navbar-link:hover {
+  border-bottom: 3px solid #fac97f;
+  cursor: pointer;
+}
+
+.logo {
+  align-items: center;
+  display: flex;
+  justify-content: initial;
+  width: 100px;
+
+}
